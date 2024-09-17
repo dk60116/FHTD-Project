@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CardAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cd9294f3e11889d4ba4d0a775538d7a1, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 28a03e41408c9b74eb7bddb725630108, type: 3}
+  - {fileID: 21300000, guid: bef60ee1703ca4340a520579d707a287, type: 3}
+  - {fileID: 21300000, guid: b37ad652ad45f6a448a188171b69de94, type: 3}
+  - {fileID: 21300000, guid: b348c783a408ea344aaee502c772672e, type: 3}
+  - {fileID: 21300000, guid: 65af61b5daf5e374d9509cb34be29fa0, type: 3}
+  - {fileID: 21300000, guid: ed84acf5db9d87a42b7b0bdccad409fd, type: 3}
+  - {fileID: 21300000, guid: acef0e96ef6026147aa357044da8cc41, type: 3}
+  - {fileID: 21300000, guid: fa0e894765e139f429cc1a302efce3d7, type: 3}
+  - {fileID: 21300000, guid: 67a1a34ad67b1624eb33b7d3508376fa, type: 3}
+  - {fileID: 21300000, guid: a484fbaa0c653134ea414136d783eea8, type: 3}
+  - {fileID: 21300000, guid: 6ab9c0cb8ba8a244cad168a5ad460017, type: 3}
+  - {fileID: 21300000, guid: 78cf81ec15f20e64ba7f6fb49b046095, type: 3}
+  - {fileID: 21300000, guid: b0043a3d74c99c040bd62834475de6cd, type: 3}
+  - {fileID: 21300000, guid: c6b1264de7971b040b2c0ec74698079e, type: 3}
+  - {fileID: 21300000, guid: 7b73089dd77e19643b57756d82b8f1ba, type: 3}
+  - {fileID: 21300000, guid: 8e32741f0a9cfd343bbcfa8e0e5bf29f, type: 3}
+  - {fileID: 21300000, guid: a7667c3ff1e68bc4480a8921c51e28b3, type: 3}
+  - {fileID: 21300000, guid: a52d32bfdba0cd24382085284abdc258, type: 3}
+  - {fileID: 21300000, guid: 70bc95cfc4c960148b2241a8701c7710, type: 3}
+  - {fileID: 21300000, guid: 8436c9ffdc65f8749b4ebe0024e5c414, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - CardClass_Hit
+  - Window_Submenu_Active_Overlay 1
+  - mana_point_lava
+  - CardGem_Epic
+  - CardType_Equip
+  - CardGem_Rear
+  - back_wood
+  - CardClass_Buff
+  - CardType_Spell
+  - CardGem_Common
+  - CardClass_Support
+  - Window_Submenu_Active_Overlay
+  - CardClass_Accessories
+  - CardGem_Legendary
+  - CardGem_UnCommon
+  - Window_Submenu_Active_Overlay 2
+  - CardClass_Weapon
+  - CardGem_Basic
+  - frame_wood
+  - CardClass_Armor
+  m_RenderDataMap: {}
+  m_Tag: CardAtlas
+  m_IsVariant: 0

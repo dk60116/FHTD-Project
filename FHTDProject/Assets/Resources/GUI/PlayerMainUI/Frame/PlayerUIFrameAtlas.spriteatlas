@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlayerUIFrameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: af62662456d867d439366af837121b2e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 354dd460a53e7124faeab693f6d14c83, type: 3}
+  - {fileID: 21300000, guid: 0030c2811b707ce4ca85eeaf2270578f, type: 3}
+  - {fileID: 21300000, guid: ec9efd03d9798f344af3160da6a8c21f, type: 3}
+  - {fileID: 21300000, guid: b4fd18236db27c045aadeca7eeca43ef, type: 3}
+  - {fileID: 21300000, guid: fddf1b730251b2b4e95c9413e8b2d113, type: 3}
+  - {fileID: 21300000, guid: 4009c5c458a6b114b87520050b482bc8, type: 3}
+  - {fileID: 21300000, guid: 0cfa2ed52618d0842bf6f614f3e01079, type: 3}
+  - {fileID: 21300000, guid: c91569f5b522fac4a902090e3a410031, type: 3}
+  - {fileID: 21300000, guid: 65c059680977e564a96fa1f7d6355689, type: 3}
+  - {fileID: 21300000, guid: d048342bfa3313345847a98ef9f1341f, type: 3}
+  - {fileID: 21300000, guid: 64c6004d9fcd1fc4f9e518abed9f94c5, type: 3}
+  - {fileID: 21300000, guid: 24f8a4bd994b4be48a8753944998d32c, type: 3}
+  - {fileID: 21300000, guid: f9dc6baf2cd674a44a2af15264656b88, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpellSlot_Border
+  - Tooltip_Background
+  - SpellSlot_Background_Round
+  - Chestput_eq_icon_nb
+  - Icon_slot
+  - SpellSlot_Background
+  - Button_update_off
+  - HeroRankLine
+  - Chestdrop_eq_icon_nb
+  - General_Container_2
+  - Slot2
+  - Arrow_eq_icon_r
+  - Stamina_line_0
+  m_RenderDataMap: {}
+  m_Tag: PlayerUIFrameAtlas
+  m_IsVariant: 0

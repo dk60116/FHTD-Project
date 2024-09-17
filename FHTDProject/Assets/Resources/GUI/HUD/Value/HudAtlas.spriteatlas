@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HudAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 0443cad6b4c804347ae8fe7cf5346d00, type: 3}
+    - {fileID: 2800000, guid: 5674d36d643d59244a0c0108f5821c98, type: 3}
+    - {fileID: 102900000, guid: 67bdb735d492dad45b3184f941ffccce, type: 3}
+    - {fileID: 2800000, guid: 45abeda927c18404d8a8edfd985d645c, type: 3}
+    - {fileID: 2800000, guid: c750e301b75c52a4e982bcb01f9c559a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c750e301b75c52a4e982bcb01f9c559a, type: 3}
+  - {fileID: 21300000, guid: 0443cad6b4c804347ae8fe7cf5346d00, type: 3}
+  - {fileID: 21300000, guid: 45abeda927c18404d8a8edfd985d645c, type: 3}
+  - {fileID: 21300000, guid: 210c884c38f0bc94e8ce3e60eb0ea864, type: 3}
+  - {fileID: 21300000, guid: 5674d36d643d59244a0c0108f5821c98, type: 3}
+  - {fileID: 21300000, guid: 8ea1085e48d41fa498c31a2c66fb2604, type: 3}
+  - {fileID: 21300000, guid: 1dc3bb0f6d373b54d9897fed56124ee4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - HP_line_0
+  - HP_line_0
+  - HP_line_back_0
+  - Star_2
+  - MP_line_0
+  - Star_3
+  - Star_1
+  m_RenderDataMap: {}
+  m_Tag: HudAtlas
+  m_IsVariant: 0

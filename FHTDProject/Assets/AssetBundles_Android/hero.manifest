@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 2173768250
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a5432dbd7d12d9b27590c52a04a3795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f558615bcbffd0774345a7a1d351090d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 060cc597857f2304f99966594aa6f07d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a169b3487b03d44ab023d32b4e384cc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 606e4a0bb057f5542b26de9dbf726989, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78a6e13f8e37b42428255d22a02c8886, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 199e3c49ebcb3fe46997b10cf6a8eb52, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HeroStatus
+Assets:
+- Assets/Resources/Unit/Hero/Peullamon_101013.prefab
+- Assets/Resources/Unit/Hero/Tetitone_103003.prefab
+- Assets/Resources/Unit/Hero/Baykey_103007.prefab
+- Assets/Resources/Unit/Hero/Magemon_103001.prefab
+- Assets/Resources/Unit/Hero/Azzang_101003.prefab
+- Assets/Resources/Unit/Hero/Spidergon_105005.prefab
+- Assets/Resources/Unit/Hero/Karre_102010.prefab
+- Assets/Resources/Unit/Hero/Saint_105004.prefab
+- Assets/Resources/Unit/Hero/Sporina_102011.prefab
+- Assets/Resources/Unit/Hero/FingerElfe_101005.prefab
+- Assets/Resources/Unit/Hero/Montechruz_103009.prefab
+- Assets/Resources/Unit/Hero/Okin_102003.prefab
+- Assets/Resources/Unit/Hero/Cabino_101001.prefab
+- Assets/Resources/Unit/Hero/Assassin_101010.prefab
+- Assets/Resources/Unit/Hero/Soskereu_101007.prefab
+- Assets/Resources/Unit/Hero/Bellial_102002.prefab
+- Assets/Resources/Unit/Hero/Syaonil_103000.prefab
+- Assets/Resources/Unit/Hero/Latina_103005.prefab
+- Assets/Resources/Unit/Hero/Valrak_105001.prefab
+- Assets/Resources/Unit/Hero/Rakiroon_103012.prefab
+- Assets/Resources/Unit/Hero/Predictor_102005.prefab
+- Assets/Resources/Unit/Hero/Kallito_105000.prefab
+- Assets/Resources/Unit/Hero/Slater_103013.prefab
+- Assets/Resources/Unit/Hero/Paladin_103008.prefab
+- Assets/Resources/Unit/Hero/Maist_105002.prefab
+- Assets/Resources/Unit/Hero/Radius_104007.prefab
+- Assets/Resources/Unit/Hero/Guroguro_102004.prefab
+- Assets/Resources/Unit/Hero/Raino_104005.prefab
+- Assets/Resources/Unit/Hero/Hogs_102012.prefab
+- Assets/Resources/Unit/Hero/Icefairy_102009.prefab
+- Assets/Resources/Unit/Hero/Balckeria_104003.prefab
+- Assets/Resources/Unit/Hero/Cramis_104004.prefab
+- Assets/Resources/Unit/Hero/Preeka_103011.prefab
+- Assets/Resources/Unit/Hero/Gong_103006.prefab
+- Assets/Resources/Unit/Hero/Mocomoco_101011.prefab
+- Assets/Resources/Unit/Hero/HellGuard_105003.prefab
+- Assets/Resources/Unit/Hero/Drucos_104000.prefab
+- Assets/Resources/Unit/Hero/Wacool_101006.prefab
+- Assets/Resources/Unit/Hero/Scollwarrior_103002.prefab
+- Assets/Resources/Unit/Hero/Babarian_102008.prefab
+- Assets/Resources/Unit/Hero/Dragoon_102001.prefab
+- Assets/Resources/Unit/Hero/Cawin_104001.prefab
+- Assets/Resources/Unit/Hero/Singklee_102013.prefab
+- Assets/Resources/Unit/Hero/Senland_104008.prefab
+- Assets/Resources/Unit/Hero/Dinko_101002.prefab
+- Assets/Resources/Unit/Hero/Belber_101000.prefab
+- Assets/Resources/Unit/Hero/Moya_101004.prefab
+- Assets/Resources/Unit/Hero/Basilisk_102006.prefab
+- Assets/Resources/Unit/Hero/Hunter_102000.prefab
+- Assets/Resources/Unit/Hero/Peurika_105006.prefab
+- Assets/Resources/Unit/Hero/Godongi_101012.prefab
+- Assets/Resources/Unit/Hero/Skelaron_104002.prefab
+- Assets/Resources/Unit/Hero/Pandasia_103010.prefab
+- Assets/Resources/Unit/Hero/Cablo_102007.prefab
+- Assets/Resources/Unit/Hero/Keurot_101008.prefab
+- Assets/Resources/Unit/Hero/Destroyer_103004.prefab
+- Assets/Resources/Unit/Hero/Witch_101009.prefab
+- Assets/Resources/Unit/Hero/DragonHunter_104006.prefab
+Dependencies: []

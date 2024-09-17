@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1489617793
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: hero
+      Dependencies: {}

@@ -1,0 +1,831 @@
+fileFormatVersion: 2
+guid: 371c5263ae5a6a34ebaad5b5caa22367
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bip01 Footsteps
+  - first:
+      1: 100002
+    second: Bip01 HeadNub
+  - first:
+      1: 100004
+    second: Bip01 L Finger0Nub
+  - first:
+      1: 100006
+    second: Bip01 L Toe0Nub
+  - first:
+      1: 100008
+    second: Bip01 R Finger0Nub
+  - first:
+      1: 100010
+    second: Bip01 R Toe0Nub
+  - first:
+      1: 100012
+    second: Bone003
+  - first:
+      1: 100014
+    second: Bone004
+  - first:
+      1: 100016
+    second: Bone007
+  - first:
+      1: 100018
+    second: Bone008
+  - first:
+      1: 100020
+    second: dogbird
+  - first:
+      1: 100022
+    second: dogbird2
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: NBS00
+  - first:
+      1: 100028
+    second: NBS01
+  - first:
+      1: 100030
+    second: NBS02
+  - first:
+      1: 100032
+    second: NBS03
+  - first:
+      1: 100034
+    second: NBS04
+  - first:
+      1: 100036
+    second: NBS05
+  - first:
+      1: 100038
+    second: NBS06
+  - first:
+      1: 100040
+    second: NBS07
+  - first:
+      1: 100042
+    second: NBS08
+  - first:
+      1: 100044
+    second: NBS09
+  - first:
+      1: 100046
+    second: NBS10
+  - first:
+      1: 100048
+    second: NBS11
+  - first:
+      1: 100050
+    second: NBS12
+  - first:
+      1: 100052
+    second: NBS13
+  - first:
+      1: 100054
+    second: NBS14
+  - first:
+      1: 100056
+    second: NBS_01_main
+  - first:
+      1: 100058
+    second: NBS_01_main jaw
+  - first:
+      1: 100060
+    second: NBS_01_main jawNub
+  - first:
+      1: 100062
+    second: NBS_01_main L HorseLink
+  - first:
+      1: 100064
+    second: NBS_01_main R HorseLink
+  - first:
+      1: 100066
+    second: NBS_01_main Spine1
+  - first:
+      1: 100068
+    second: NBS_01_main Tail
+  - first:
+      1: 100070
+    second: NBS_01_main Tail1
+  - first:
+      1: 100072
+    second: NBS_01_main Tail2
+  - first:
+      1: 100074
+    second: NBS_01_main Tail3
+  - first:
+      1: 100076
+    second: NBS_01_main Tail4
+  - first:
+      1: 100078
+    second: NBS_01_main TailNub
+  - first:
+      1: 100080
+    second: NBS_01_main Wing_L
+  - first:
+      1: 100082
+    second: NBS_01_main Wing_L02
+  - first:
+      1: 100084
+    second: NBS_01_main Wing_L03
+  - first:
+      1: 100086
+    second: NBS_01_main Wing_L04
+  - first:
+      1: 100088
+    second: NBS_01_main Wing_L05
+  - first:
+      1: 100090
+    second: NBS_01_main Wing_LNub
+  - first:
+      1: 100092
+    second: NBS_01_main Wing_R
+  - first:
+      1: 100094
+    second: NBS_01_main Wing_R02
+  - first:
+      1: 100096
+    second: NBS_01_main Wing_R03
+  - first:
+      1: 100098
+    second: NBS_01_main Wing_R04
+  - first:
+      1: 100100
+    second: NBS_01_main Wing_R05
+  - first:
+      1: 100102
+    second: NBS_01_main Wing_RNub
+  - first:
+      1: 100104
+    second: NBS_02_Pelvis
+  - first:
+      1: 100106
+    second: NBS_03_Spine
+  - first:
+      1: 100108
+    second: NBS_05_Neck
+  - first:
+      1: 100110
+    second: NBS_06_ Head
+  - first:
+      1: 100112
+    second: NBS_07_ R Clavicle
+  - first:
+      1: 100114
+    second: NBS_08_ R UpperArm
+  - first:
+      1: 100116
+    second: NBS_09_ R Forearm
+  - first:
+      1: 100118
+    second: NBS_10_ R Hand
+  - first:
+      1: 100120
+    second: NBS_11_ R Finger0
+  - first:
+      1: 100122
+    second: NBS_15_ L Clavicle
+  - first:
+      1: 100124
+    second: NBS_16_ L UpperArm
+  - first:
+      1: 100126
+    second: NBS_17_ L Forearm
+  - first:
+      1: 100128
+    second: NBS_18_ L Hand
+  - first:
+      1: 100130
+    second: NBS_19_ L Finger0
+  - first:
+      1: 100132
+    second: NBS_23_ R Thigh1
+  - first:
+      1: 100134
+    second: NBS_24_ R Calf
+  - first:
+      1: 100136
+    second: NBS_25_ R Foot
+  - first:
+      1: 100138
+    second: NBS_26_ R Toe0
+  - first:
+      1: 100140
+    second: NBS_27_ L Thigh
+  - first:
+      1: 100142
+    second: NBS_28_ L Calf
+  - first:
+      1: 100144
+    second: NBS_29_ L Foot
+  - first:
+      1: 100146
+    second: NBS_30_ L Toe0
+  - first:
+      1: 100148
+    second: objpolySurface77
+  - first:
+      1: 100150
+    second: objpolySurface80
+  - first:
+      4: 400000
+    second: Bip01 Footsteps
+  - first:
+      4: 400002
+    second: Bip01 HeadNub
+  - first:
+      4: 400004
+    second: Bip01 L Finger0Nub
+  - first:
+      4: 400006
+    second: Bip01 L Toe0Nub
+  - first:
+      4: 400008
+    second: Bip01 R Finger0Nub
+  - first:
+      4: 400010
+    second: Bip01 R Toe0Nub
+  - first:
+      4: 400012
+    second: Bone003
+  - first:
+      4: 400014
+    second: Bone004
+  - first:
+      4: 400016
+    second: Bone007
+  - first:
+      4: 400018
+    second: Bone008
+  - first:
+      4: 400020
+    second: dogbird
+  - first:
+      4: 400022
+    second: dogbird2
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: NBS00
+  - first:
+      4: 400028
+    second: NBS01
+  - first:
+      4: 400030
+    second: NBS02
+  - first:
+      4: 400032
+    second: NBS03
+  - first:
+      4: 400034
+    second: NBS04
+  - first:
+      4: 400036
+    second: NBS05
+  - first:
+      4: 400038
+    second: NBS06
+  - first:
+      4: 400040
+    second: NBS07
+  - first:
+      4: 400042
+    second: NBS08
+  - first:
+      4: 400044
+    second: NBS09
+  - first:
+      4: 400046
+    second: NBS10
+  - first:
+      4: 400048
+    second: NBS11
+  - first:
+      4: 400050
+    second: NBS12
+  - first:
+      4: 400052
+    second: NBS13
+  - first:
+      4: 400054
+    second: NBS14
+  - first:
+      4: 400056
+    second: NBS_01_main
+  - first:
+      4: 400058
+    second: NBS_01_main jaw
+  - first:
+      4: 400060
+    second: NBS_01_main jawNub
+  - first:
+      4: 400062
+    second: NBS_01_main L HorseLink
+  - first:
+      4: 400064
+    second: NBS_01_main R HorseLink
+  - first:
+      4: 400066
+    second: NBS_01_main Spine1
+  - first:
+      4: 400068
+    second: NBS_01_main Tail
+  - first:
+      4: 400070
+    second: NBS_01_main Tail1
+  - first:
+      4: 400072
+    second: NBS_01_main Tail2
+  - first:
+      4: 400074
+    second: NBS_01_main Tail3
+  - first:
+      4: 400076
+    second: NBS_01_main Tail4
+  - first:
+      4: 400078
+    second: NBS_01_main TailNub
+  - first:
+      4: 400080
+    second: NBS_01_main Wing_L
+  - first:
+      4: 400082
+    second: NBS_01_main Wing_L02
+  - first:
+      4: 400084
+    second: NBS_01_main Wing_L03
+  - first:
+      4: 400086
+    second: NBS_01_main Wing_L04
+  - first:
+      4: 400088
+    second: NBS_01_main Wing_L05
+  - first:
+      4: 400090
+    second: NBS_01_main Wing_LNub
+  - first:
+      4: 400092
+    second: NBS_01_main Wing_R
+  - first:
+      4: 400094
+    second: NBS_01_main Wing_R02
+  - first:
+      4: 400096
+    second: NBS_01_main Wing_R03
+  - first:
+      4: 400098
+    second: NBS_01_main Wing_R04
+  - first:
+      4: 400100
+    second: NBS_01_main Wing_R05
+  - first:
+      4: 400102
+    second: NBS_01_main Wing_RNub
+  - first:
+      4: 400104
+    second: NBS_02_Pelvis
+  - first:
+      4: 400106
+    second: NBS_03_Spine
+  - first:
+      4: 400108
+    second: NBS_05_Neck
+  - first:
+      4: 400110
+    second: NBS_06_ Head
+  - first:
+      4: 400112
+    second: NBS_07_ R Clavicle
+  - first:
+      4: 400114
+    second: NBS_08_ R UpperArm
+  - first:
+      4: 400116
+    second: NBS_09_ R Forearm
+  - first:
+      4: 400118
+    second: NBS_10_ R Hand
+  - first:
+      4: 400120
+    second: NBS_11_ R Finger0
+  - first:
+      4: 400122
+    second: NBS_15_ L Clavicle
+  - first:
+      4: 400124
+    second: NBS_16_ L UpperArm
+  - first:
+      4: 400126
+    second: NBS_17_ L Forearm
+  - first:
+      4: 400128
+    second: NBS_18_ L Hand
+  - first:
+      4: 400130
+    second: NBS_19_ L Finger0
+  - first:
+      4: 400132
+    second: NBS_23_ R Thigh1
+  - first:
+      4: 400134
+    second: NBS_24_ R Calf
+  - first:
+      4: 400136
+    second: NBS_25_ R Foot
+  - first:
+      4: 400138
+    second: NBS_26_ R Toe0
+  - first:
+      4: 400140
+    second: NBS_27_ L Thigh
+  - first:
+      4: 400142
+    second: NBS_28_ L Calf
+  - first:
+      4: 400144
+    second: NBS_29_ L Foot
+  - first:
+      4: 400146
+    second: NBS_30_ L Toe0
+  - first:
+      4: 400148
+    second: objpolySurface77
+  - first:
+      4: 400150
+    second: objpolySurface80
+  - first:
+      43: 4300000
+    second: objpolySurface77
+  - first:
+      43: 4300002
+    second: objpolySurface80
+  - first:
+      43: 4300004
+    second: dogbird
+  - first:
+      43: 4300006
+    second: dogbird2
+  - first:
+      74: 7400000
+    second: attack
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: dogbird
+  - first:
+      137: 13700002
+    second: dogbird2
+  - first:
+      137: 13700004
+    second: objpolySurface77
+  - first:
+      137: 13700006
+    second: objpolySurface80
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dogbird
+        weight: 1
+      - path: dogbird2
+        weight: 1
+      - path: NBS00
+        weight: 1
+      - path: NBS01
+        weight: 1
+      - path: NBS05
+        weight: 1
+      - path: NBS09
+        weight: 1
+      - path: NBS10
+        weight: 1
+      - path: NBS11
+        weight: 1
+      - path: NBS12
+        weight: 1
+      - path: NBS13
+        weight: 1
+      - path: NBS14
+        weight: 1
+      - path: NBS_01_main
+        weight: 1
+      - path: NBS_01_main/Bip01 Footsteps
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS02
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_L
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_L/NBS_01_main Wing_L02
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_L/NBS_01_main Wing_L02/NBS_01_main Wing_L03
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_L/NBS_01_main Wing_L02/NBS_01_main Wing_L03/NBS_01_main Wing_L04
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_L/NBS_01_main Wing_L02/NBS_01_main Wing_L03/NBS_01_main Wing_L04/NBS_01_main
+          Wing_L05
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_L/NBS_01_main Wing_L02/NBS_01_main Wing_L03/NBS_01_main Wing_L04/NBS_01_main
+          Wing_L05/NBS_01_main Wing_LNub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_R
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_R/NBS_01_main Wing_R02
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_R/NBS_01_main Wing_R02/NBS_01_main Wing_R03
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_R/NBS_01_main Wing_R02/NBS_01_main Wing_R03/NBS_01_main Wing_R04
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_R/NBS_01_main Wing_R02/NBS_01_main Wing_R03/NBS_01_main Wing_R04/NBS_01_main
+          Wing_R05
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_01_main
+          Wing_R/NBS_01_main Wing_R02/NBS_01_main Wing_R03/NBS_01_main Wing_R04/NBS_01_main
+          Wing_R05/NBS_01_main Wing_RNub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/Bip01 HeadNub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/Bone003
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/Bone003/Bone004
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/Bone007
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/Bone007/Bone008
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/NBS03
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/NBS04
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/NBS06
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/NBS_01_main jaw
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_06_
+          Head/NBS_01_main jaw/NBS_01_main jawNub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle/NBS_08_ R UpperArm
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle/NBS_08_ R UpperArm/NBS_09_ R Forearm
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle/NBS_08_ R UpperArm/NBS_09_ R Forearm/NBS_10_ R Hand
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle/NBS_08_ R UpperArm/NBS_09_ R Forearm/NBS_10_ R Hand/NBS07
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle/NBS_08_ R UpperArm/NBS_09_ R Forearm/NBS_10_ R Hand/NBS_11_
+          R Finger0
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_07_
+          R Clavicle/NBS_08_ R UpperArm/NBS_09_ R Forearm/NBS_10_ R Hand/NBS_11_
+          R Finger0/Bip01 R Finger0Nub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle/NBS_16_ L UpperArm
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle/NBS_16_ L UpperArm/NBS_17_ L Forearm
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle/NBS_16_ L UpperArm/NBS_17_ L Forearm/NBS_18_ L Hand
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle/NBS_16_ L UpperArm/NBS_17_ L Forearm/NBS_18_ L Hand/NBS08
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle/NBS_16_ L UpperArm/NBS_17_ L Forearm/NBS_18_ L Hand/NBS_19_
+          L Finger0
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Spine1/NBS_05_Neck/NBS_15_
+          L Clavicle/NBS_16_ L UpperArm/NBS_17_ L Forearm/NBS_18_ L Hand/NBS_19_
+          L Finger0/Bip01 L Finger0Nub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Tail
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Tail/NBS_01_main
+          Tail1
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Tail/NBS_01_main
+          Tail1/NBS_01_main Tail2
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Tail/NBS_01_main
+          Tail1/NBS_01_main Tail2/NBS_01_main Tail3
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Tail/NBS_01_main
+          Tail1/NBS_01_main Tail2/NBS_01_main Tail3/NBS_01_main Tail4
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_01_main Tail/NBS_01_main
+          Tail1/NBS_01_main Tail2/NBS_01_main Tail3/NBS_01_main Tail4/NBS_01_main
+          TailNub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_23_ R Thigh1
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_23_ R Thigh1/NBS_24_ R Calf
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_23_ R Thigh1/NBS_24_ R Calf/NBS_01_main
+          R HorseLink
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_23_ R Thigh1/NBS_24_ R Calf/NBS_01_main
+          R HorseLink/NBS_25_ R Foot
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_23_ R Thigh1/NBS_24_ R Calf/NBS_01_main
+          R HorseLink/NBS_25_ R Foot/NBS_26_ R Toe0
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_23_ R Thigh1/NBS_24_ R Calf/NBS_01_main
+          R HorseLink/NBS_25_ R Foot/NBS_26_ R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_27_ L Thigh
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_27_ L Thigh/NBS_28_ L Calf
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_27_ L Thigh/NBS_28_ L Calf/NBS_01_main
+          L HorseLink
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_27_ L Thigh/NBS_28_ L Calf/NBS_01_main
+          L HorseLink/NBS_29_ L Foot
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_27_ L Thigh/NBS_28_ L Calf/NBS_01_main
+          L HorseLink/NBS_29_ L Foot/NBS_30_ L Toe0
+        weight: 1
+      - path: NBS_01_main/NBS_02_Pelvis/NBS_03_Spine/NBS_27_ L Thigh/NBS_28_ L Calf/NBS_01_main
+          L HorseLink/NBS_29_ L Foot/NBS_30_ L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: objpolySurface77
+        weight: 1
+      - path: objpolySurface80
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

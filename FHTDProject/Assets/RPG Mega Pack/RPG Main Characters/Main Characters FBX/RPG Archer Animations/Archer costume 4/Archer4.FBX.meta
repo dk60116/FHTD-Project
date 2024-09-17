@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: c158897c97e044644ac2410106ea2de5
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Archer_body01
+  - first:
+      1: 100004
+    second: Archer_body02
+  - first:
+      1: 100006
+    second: Archer_body03
+  - first:
+      1: 100008
+    second: Archer_face
+  - first:
+      1: 100010
+    second: Bip001
+  - first:
+      1: 100012
+    second: Bip001 Footsteps
+  - first:
+      1: 100014
+    second: Bip001 Head
+  - first:
+      1: 100016
+    second: Bip001 HeadNub
+  - first:
+      1: 100018
+    second: Bip001 L Calf
+  - first:
+      1: 100020
+    second: Bip001 L Clavicle
+  - first:
+      1: 100022
+    second: Bip001 L Finger0
+  - first:
+      1: 100024
+    second: Bip001 L Finger01
+  - first:
+      1: 100026
+    second: Bip001 L Finger0Nub
+  - first:
+      1: 100028
+    second: Bip001 L Finger1
+  - first:
+      1: 100030
+    second: Bip001 L Finger11
+  - first:
+      1: 100032
+    second: Bip001 L Finger1Nub
+  - first:
+      1: 100034
+    second: Bip001 L Foot
+  - first:
+      1: 100036
+    second: Bip001 L Forearm
+  - first:
+      1: 100038
+    second: Bip001 L Hand
+  - first:
+      1: 100040
+    second: Bip001 L Thigh
+  - first:
+      1: 100042
+    second: Bip001 L Toe0
+  - first:
+      1: 100044
+    second: Bip001 L Toe0Nub
+  - first:
+      1: 100046
+    second: Bip001 L UpperArm
+  - first:
+      1: 100048
+    second: Bip001 Neck
+  - first:
+      1: 100050
+    second: Bip001 Pelvis
+  - first:
+      1: 100052
+    second: Bip001 R Calf
+  - first:
+      1: 100054
+    second: Bip001 R Clavicle
+  - first:
+      1: 100056
+    second: Bip001 R Finger0
+  - first:
+      1: 100058
+    second: Bip001 R Finger01
+  - first:
+      1: 100060
+    second: Bip001 R Finger0Nub
+  - first:
+      1: 100062
+    second: Bip001 R Finger1
+  - first:
+      1: 100064
+    second: Bip001 R Finger11
+  - first:
+      1: 100066
+    second: Bip001 R Finger1Nub
+  - first:
+      1: 100068
+    second: Bip001 R Foot
+  - first:
+      1: 100070
+    second: Bip001 R Forearm
+  - first:
+      1: 100072
+    second: Bip001 R Hand
+  - first:
+      1: 100074
+    second: Bip001 R Thigh
+  - first:
+      1: 100076
+    second: Bip001 R Toe0
+  - first:
+      1: 100078
+    second: Bip001 R Toe0Nub
+  - first:
+      1: 100080
+    second: Bip001 R UpperArm
+  - first:
+      1: 100082
+    second: Bip001 Spine
+  - first:
+      1: 100084
+    second: Bip001 Spine1
+  - first:
+      1: 100086
+    second: Bip001 Spine2
+  - first:
+      1: 100088
+    second: Bone001
+  - first:
+      1: 100090
+    second: Bone0014
+  - first:
+      1: 100092
+    second: Bone0025
+  - first:
+      1: 100094
+    second: Bone003
+  - first:
+      1: 100096
+    second: Bone004
+  - first:
+      1: 100098
+    second: Bone0042
+  - first:
+      1: 100100
+    second: Bone005
+  - first:
+      1: 100102
+    second: Bone0053
+  - first:
+      1: 100104
+    second: Bone006
+  - first:
+      1: 100106
+    second: Bone007
+  - first:
+      1: 100108
+    second: Bone008
+  - first:
+      1: 100110
+    second: Bone009
+  - first:
+      1: 100112
+    second: cross_arrow
+  - first:
+      1: 100114
+    second: cross_string
+  - first:
+      1: 100116
+    second: Dummy001
+  - first:
+      1: 100118
+    second: link_body04
+  - first:
+      1: 100120
+    second: link_body04 1
+  - first:
+      1: 100122
+    second: link_head04
+  - first:
+      1: 100124
+    second: sword02
+  - first:
+      1: 100126
+    second: swordpos01
+  - first:
+      1: 100128
+    second: swordpos02
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Archer_body01
+  - first:
+      4: 400004
+    second: Archer_body02
+  - first:
+      4: 400006
+    second: Archer_body03
+  - first:
+      4: 400008
+    second: Archer_face
+  - first:
+      4: 400010
+    second: Bip001
+  - first:
+      4: 400012
+    second: Bip001 Footsteps
+  - first:
+      4: 400014
+    second: Bip001 Head
+  - first:
+      4: 400016
+    second: Bip001 HeadNub
+  - first:
+      4: 400018
+    second: Bip001 L Calf
+  - first:
+      4: 400020
+    second: Bip001 L Clavicle
+  - first:
+      4: 400022
+    second: Bip001 L Finger0
+  - first:
+      4: 400024
+    second: Bip001 L Finger01
+  - first:
+      4: 400026
+    second: Bip001 L Finger0Nub
+  - first:
+      4: 400028
+    second: Bip001 L Finger1
+  - first:
+      4: 400030
+    second: Bip001 L Finger11
+  - first:
+      4: 400032
+    second: Bip001 L Finger1Nub
+  - first:
+      4: 400034
+    second: Bip001 L Foot
+  - first:
+      4: 400036
+    second: Bip001 L Forearm
+  - first:
+      4: 400038
+    second: Bip001 L Hand
+  - first:
+      4: 400040
+    second: Bip001 L Thigh
+  - first:
+      4: 400042
+    second: Bip001 L Toe0
+  - first:
+      4: 400044
+    second: Bip001 L Toe0Nub
+  - first:
+      4: 400046
+    second: Bip001 L UpperArm
+  - first:
+      4: 400048
+    second: Bip001 Neck
+  - first:
+      4: 400050
+    second: Bip001 Pelvis
+  - first:
+      4: 400052
+    second: Bip001 R Calf
+  - first:
+      4: 400054
+    second: Bip001 R Clavicle
+  - first:
+      4: 400056
+    second: Bip001 R Finger0
+  - first:
+      4: 400058
+    second: Bip001 R Finger01
+  - first:
+      4: 400060
+    second: Bip001 R Finger0Nub
+  - first:
+      4: 400062
+    second: Bip001 R Finger1
+  - first:
+      4: 400064
+    second: Bip001 R Finger11
+  - first:
+      4: 400066
+    second: Bip001 R Finger1Nub
+  - first:
+      4: 400068
+    second: Bip001 R Foot
+  - first:
+      4: 400070
+    second: Bip001 R Forearm
+  - first:
+      4: 400072
+    second: Bip001 R Hand
+  - first:
+      4: 400074
+    second: Bip001 R Thigh
+  - first:
+      4: 400076
+    second: Bip001 R Toe0
+  - first:
+      4: 400078
+    second: Bip001 R Toe0Nub
+  - first:
+      4: 400080
+    second: Bip001 R UpperArm
+  - first:
+      4: 400082
+    second: Bip001 Spine
+  - first:
+      4: 400084
+    second: Bip001 Spine1
+  - first:
+      4: 400086
+    second: Bip001 Spine2
+  - first:
+      4: 400088
+    second: Bone001
+  - first:
+      4: 400090
+    second: Bone0014
+  - first:
+      4: 400092
+    second: Bone0025
+  - first:
+      4: 400094
+    second: Bone003
+  - first:
+      4: 400096
+    second: Bone004
+  - first:
+      4: 400098
+    second: Bone0042
+  - first:
+      4: 400100
+    second: Bone005
+  - first:
+      4: 400102
+    second: Bone0053
+  - first:
+      4: 400104
+    second: Bone006
+  - first:
+      4: 400106
+    second: Bone007
+  - first:
+      4: 400108
+    second: Bone008
+  - first:
+      4: 400110
+    second: Bone009
+  - first:
+      4: 400112
+    second: cross_arrow
+  - first:
+      4: 400114
+    second: cross_string
+  - first:
+      4: 400116
+    second: Dummy001
+  - first:
+      4: 400118
+    second: link_body04
+  - first:
+      4: 400120
+    second: link_body04 1
+  - first:
+      4: 400122
+    second: link_head04
+  - first:
+      4: 400124
+    second: sword02
+  - first:
+      4: 400126
+    second: swordpos01
+  - first:
+      4: 400128
+    second: swordpos02
+  - first:
+      23: 2300000
+    second: Archer_body02
+  - first:
+      23: 2300002
+    second: Archer_body03
+  - first:
+      23: 2300004
+    second: cross_arrow
+  - first:
+      23: 2300006
+    second: link_body04
+  - first:
+      23: 2300008
+    second: link_body04 1
+  - first:
+      23: 2300010
+    second: link_head04
+  - first:
+      23: 2300012
+    second: sword02
+  - first:
+      33: 3300000
+    second: Archer_body02
+  - first:
+      33: 3300002
+    second: Archer_body03
+  - first:
+      33: 3300004
+    second: cross_arrow
+  - first:
+      33: 3300006
+    second: link_body04
+  - first:
+      33: 3300008
+    second: link_body04 1
+  - first:
+      33: 3300010
+    second: link_head04
+  - first:
+      33: 3300012
+    second: sword02
+  - first:
+      43: 4300000
+    second: Archer_body01
+  - first:
+      43: 4300002
+    second: link_head04
+  - first:
+      43: 4300004
+    second: link_body04
+  - first:
+      43: 4300006
+    second: sword02
+  - first:
+      43: 4300008
+    second: cross_arrow
+  - first:
+      43: 4300010
+    second: cross_string
+  - first:
+      43: 4300012
+    second: link_body04
+  - first:
+      43: 4300014
+    second: Archer_body03
+  - first:
+      43: 4300016
+    second: Archer_body02
+  - first:
+      43: 4300018
+    second: Archer_face
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Archer_body01
+  - first:
+      137: 13700002
+    second: Archer_face
+  - first:
+      137: 13700004
+    second: cross_string
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 398b9fc7de1c19a4f9e7083077731fca
+  - 81155ec910f25aa4a9d6c0c77b39749a
+  - 3b37f680b59879f4c9bb87b28c5e6b13
+  - 150c4689598b9ce488f23ec18cf00430
+  - eef68ddb06e0fb0408812cbfa67dc317
+  - 04e79d11ce995a745b5e07925da2c808
+  - 57f9b01b5c2a9f848a090f5aaacc4798
+  - b9350e46e643fe343b5e502959f311aa
+  - d85b586d3c1b0354d92a26099283f28d
+  - e5fdd7276323b9343a39e1b90c0285a8
+  - b7ab39f54a647d542941312832b6ab89
+  - bf65cb264b8b7e24aafc951c9360bf52
+  - 71fcce0d0d7be6b4ba57cd9700d56830
+  - dfae1d9fddb2ab94b85c11945e8c0d79
+  - 5e9aa78524ad43d4fb9b01ba433ec3ef
+  - 3735e0ca7bfa1b94f961b02d0f91d405
+  - c81a2d957874d7847b58e5345c2b5510
+  - 17117ba0da8e82d448ff8d3e9ee81b45
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

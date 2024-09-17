@@ -1,0 +1,59 @@
+ID,Hero,Skill Name,Timming,Value00,Value01,Value02,Value03,Value04,Value05,Value06,Value07,Skill Explanation
+201000,Belber,Spin root,Active,7_12_22,0.15,3,0.25,2,,,,<Hero>가 회전하며 <Enemy>을 타격해  주변 <Value04><Block> 내의 <Enemy>들에게 <Value02><Second>간 <Value03>초 마다 [<Power>*<Attack><*><Value01><+><Value00>]의 <AD>를 입힙니다.
+201001,Cabino,Swipe whip,Active,70_120_240,0.8_1.5_3,1.5,,,,,,<Hero>가 <Value02><Block>이내의 가장 가까운 <Enemy>을 강하게 내리쳐 [<Power><*><Value00>]의 <AP>를 입히고 <Value01><Second>간 <Stun>시킵니다.
+201002,Dinko,Flame throwing,Active,8_13_22,1.2,0.1,30,3,5,,,<Hero>가 <Value01>초 동안 전방에 화염을 내뿜어 <Enemy>들에게 <Value02>초마다 [<Power><*><Value00>]의 <AP>를 입힙니다. 피해를 받은 <Enemy>은 <Value05><Seconds> 동안 <Value03><Percent>의 화상 상태가 됩니다.  
+201003,Azzang,Mucus pool,Active,6_11_20,40_55_70,5,0.2,,,,,<Hero>이 앞<Block>에 <Value02>초간 독 웅덩이를 만들어 범위 안의 <Enemy>들을 <Value01><Percent> <Slow>시키고 <Value03>초마다 [<Value00><*><Power>]의 <AP>를 입힙니다.
+201004,Moya,Happy baby,Active,55_77_105,8,,,,,,,<Hero>가 <Value01><Seconds> 동안 [<Power><*><Value00>]의 <+Attack>을 얻습니다.
+201005,FingerElfe,Lucky slap,Passive_Attack_End,25_38_77,40_55_70,,,,,,,<Hero>가 [<Value01>*<Power>]<Percent>의 확률로 두 번 공격합니다. 추가공격은 |<Attack><*>0.25<+><Value00>|의 추가 <AD>를 입힙니다.
+201006,Wacool,Poop mine,Active,66_110_205,50_60_70,3,1,,,,,<Hero>이 경로에 지뢰를 던져 밟은 <Enemy>과 주변<Value03><Block>에 [<Value00><*><Power>]의 <AP>를 주고 <Value02>초간 <Value01><Percent> <Slow>시킵니다.
+201007,Soskereu,Dark ball,Active,95_163_265,110_120_130,,,,,,,<Hero>가 대상에 검은 구체를 던져 [<Value00><*><Power><*><Value01><*>0.01]의 <AP>를 입힙니다. 대미지는 <Value01><Percent> <_Power>의 영향을 받습니다.
+201008,Keurot,Thorn explosion,Active,68_103_175,1.5,6,50_55_60,,,,,<Hero>이 주변에 가시를 발사해 <Value01><Block> 내의 <Enemy>들에게 [<Value00>*<Power>]의 <AP>를 입힙니다. 가시에 맞은 <Enemy>은 <Value02><Second>간 <_ADDef>이 <Value03> 감소합니다. 
+201009,Witch,Magic ball,Active,42_77_140,75_120_225,1,0.3,,,,,<Hero>가 대상에 마력구체를 던져 맞은 <Enemy>에게 [<Value00><*><Power>]의 <AP>를 입히고 잠시뒤 폭발하여 주변 <Value02>칸 내의 <Enemy>들에게 |<Value01><*><Power>|의 피해를 입힙니다.
+201010,Assassin,Flying dagger,Active,70_100_145,150_200_250,2,3,,,,,<Hero>이 <Value02>칸 안의 가장 가까운 <Enemy>에게 단검을 던져 [(<Value00>+(<Value03><*><Attack>))<*><Power>]의 <AD>를 입힙니다. 대상의 등 뒤에 <Enemy>중할 경우 <Value01><Percent>의 피해를 줍니다.
+201011,Mocomoco,Silent pouder,Active,60_98_173,5_7_9,,,,,,,<Hero>가 전방에 마법가루를 날려 <Enemy>들에게 [<Value00><*><Power>]의 <AP>를 입히고 <Value01><Second> 동안 <Silent>시킵니다.
+201012,Godongi,Two balls,Active,55_80_140,1_1.75_2.5,,,,,,,<Hero>가 다음 <BaseAttack>을 강화해 두 뿔로 <Enemy>을 타격해 [<Value00><*><Power>]의 추가 <AD>를 입히고 <Value01><Second> 동안 <Airborne>웁니다.   
+201013,Peullamon,Vegetable poisons,Active,2,2_2_3,64_102_185,6,45,,,,<Hero>이 <Value00><Block> 내의 최대 <Value01>명의 <Enemy>에게 독을 뱉어 [<Value02><*><Power>]의 <AP>를 입히고; <Value03><Second> 동안 <Value04><Percent>의 <_APDef>를 감소시킵니다.
+201014,Hunter,Pronged arrow,Active,3_4_5,0.8_0.9_1.1,25,,,,,,<Hero>가 <Value00>갈래로 화살을 발사해 처음 맞은 <Enemy>에게 [<Value01><*><Attack><+><Value02><*><Power>]의 <AD>를 입힙니다.
+201015,Dragoon,Dragon Wings,Active,12_20_30,80_130_200,,,,,,,<Hero>가 <Value00><Second>동안 높이 날며 공격합니다. 이 동안 <Unspecified>상태가 되며; [<Value01><*><Power>]<Percent>증가된 데미지를 입힙니다. 공중 공격동안 <_MP>를 획득하지 못합니다.
+201016,Bellial,Forst bondage,,60_75_100,4,2_3_4,2.5_3.6_5.5,,,,,<Hero>가 땅에서부터 덩굴을 소환해 가까운 순으로 <Value01><Block>안의 최대 <Value02>명의 <Enemy>에게 [<Value00><*><Power>]의 <AP>를 입히고 <Value03><Seconds> 동안 <Stiff>합니다.
+201017,Okin,Thirst,Passive_Attack_End,2_3_4,1_1.25_1.5,,,,,,,<Hero>이 공격할 때 마다 <Value00>의 <_HP>를 잃습니다. <Hero>은 공격 할 때 마다 <Value01><Percent>의 <_AtkSpd>를 영구적으로 얻습니다. 
+201018,Guroguro,Fortresses,Active,5,105_188_310,1.5,,,,,,<Hero>가 <Value00><Second>동안 [<Value01><*><Power>]의 <Shield>을 얻습니다. <Shield>이 파괴되면 주변 <Value02><Block>의 <Enemys>에게 그만큼의 <AP>를 입힙니다.
+201019,Predictor,Curse of sphere,Active,45_68_110,6_6_10,1.5,0.5,18_24_40,,,,<Hero>가 가까운 <Enemy>에게 마법구체를 던져 [<Value00><*><Power>]의 <AP>를 입힙니다. 구체에 맞은 적은<Value01><Second> 동안 저주에 걸려 주변 <Value02><Block>의 <Enemys>에게 <Value03><Second>마다 |<Value04><*><Power>|의 <AP>를 입힙니다.
+201020,Basilisk,Taunt,Active,1.5_2_3,24_30_40,,,,,,,<Hero>가 가까운 <Enemy>를 도발해 <Value00><*><Power><Second>동안 자신을 공격하게 합니다. 도발된 적은 지속시간동안 [<Value01><*><Power>]<Persent>만큼의 추가 피해를 입습니다.
+201021,Cablo,Stop!,Active,60_100_175,5_6_7.5,,,,,,,<Hero>가 가까운 <Enemy>을 뿔로 깊게 찔러 [<Value00><*><Power>]의 <AD>를 입히고 <Value01><Second>동안 <Stiff>하고 그 동안 뒤따라 오는 적들의 이동을 순차적으로 막습니다. <Air>적은 이동을 방해받지 않습니다.
+201022,Babarian,Rotary slash,,1.5,120_215_340,10,40_55_80,,,,,<Hero>가 <Value00><Block>안의 가까운 <Enemy>를 베어 [<Value01><+><Attack>]의 <AD>를 입히고 <Value02><Second> 동안 <_ADDef>이 |<Value03><*><Power>|<Percent> 감소합니다. 
+201023,Icefairy,Freeze hard,,90_165_220,2.5_3.2_5,30,,,,,,<Hero>가 <Value00><Block>안의 가까운 <Enemy>을 얼려 [<Value00><*><Power>]의 <AP>를 입히고 <Value01><Second> 동안 <Stun>시킨 뒤 <MP>를 0으로 만듭니다. 얼음 주변의 <Enemy>들은 <Value02><Percent> 둔화됩니다.
+201024,Karre,Good friends,Passive_Always,1_1_2,1_2_3,,,,,,,<Hero> 주변 <Value00><Block>의 <FriendlyUnit>들의 마나 회복력이 <Value01> 늘어납니다. <_AP> 100당 추가로 1늘어납니다.
+201025,Sporina,,,,,,,,,,,
+201026,Hogs,Totem Shout,,70_128_225,0.3_0.5_0.8,,,,,,,<Hero>가 전방에 고함을 질러 지나는 적들에게 [<Value00><*><Power>]의 <AP>를 주고 <Value01>Second>간 <Stun>시킵니다.
+201027,Singklee,,,,,,,,,,,
+201028,Syaonil,Corruption,,10,1.5,50_60_70,2,0.45_0.66_1.2,,,,<Hero>이 <Value00>초 동안 <_Range>가 <Value01>로 감소하는 대신 <_AtkSpd>가 <Value02><Percent> 증가하고 <BaseAttack>마다 <Target>과 주변 <Value03>칸의 <Enemy>에게 [<Value02><*><Power>]의 <AP>를 입히는 <Buff>를 얻습니다. <E><Buff>가 지속되는 동안 <_MP>이 회복되지 않습니다.
+201029,Magemon,,,,,,,,,,,
+201030,Scollwarrior,,Active,100_165_260,3,2,1.5_1.5_2,,,,,<Hero>가 꼬리로 가까운 <Enemy>을 들어올려 <Value01><Second>동안 전장에서 제외시킵니다. 지속시간이 끝나면 바닥에 내리 꽂아 주변 <Value01><Block>의 <Enemys>에게 [<Value00>*<Power>]의 <AP>를 입히고 <Value03><Second>동안 <Airborne>웁니다.
+201031,Tetitone,,,,,,,,,,,
+201032,Destroyer,,,2,1.6_2.5_4.2,5,0.5,10_15_22,50,,,"<Hero>가 주변에 칼을 휘둘러 주변<Value00>칸의 <Enemys>에게 [<Attack><*><Value01>]의 <AD>를 입히고 출혈을 입힙니다. 출혈에 걸린 적은 <Value02><Second> 동안 <Value03><Second>마다 |<Value04><*><Power>|의 <AP>를 입고, <HealAmount><Percent>감소합니다."
+201033,Latina,,,,,,,,,,,
+201034,Gong,,,,,,,,,,,
+201035,Baykey,Shield of the right,,5_7_10,80_150_290,1.2_1.4_1.8,,,,,,<Hero>가 방패를 휘둘러 공격합니다. 공격은 <Value00>번 반복되며; <_ADDef>에 비례하는 [(<ADDef><+><Value01>)<*><Value02><*><Power>]의 <AD>를 입힙니다. 속도는 <_AtkSpd>와 같습니다.
+201036,Paladin,Power of god,,3_3_4,1.5,1.5_1.7_2,35_68_116,0.5,,,,<Hero>이 시간차로 경로에 <Value00>개의 신성한 검을 소환해 <Enemys>을 타격합니다. 검의 주변 <Value01><Block>에 있던 적은 [<Value02><*><Attack>]의 <AD>를 입습니다. 검의 중앙에 맞은 적은 |<Value03><*><Power>|의 <AP>를 추가로 입고; <Value04><Second> 동안 <Stun>합니다.
+201037,Montechruz,Looting,,80_150_230,1_2_3,0.5,,,,,,<Hero>가 다음 기본공격을 강화해 |<Value00><*><Attack><*><Power>|의 <AD>를 추가로 입힙니다. 이 공격으로 크리티컬이 발생하면 <Value01><Gold>를 획득합니다.
+201038,Pandasia,,,,,,,,,,,
+201039,Preeka,Replica scarecrow,,0.2,2,60_96_165,,,,,,전투능력이 없는 클론 인형이 합류합니다. 전투중 <_MP>이 가득 차면 클론 인형은 주변 <Value01><Block>내의 <Enemys>에게 [<Value02><*><Power>]의 <AP>를 입힙니다. 잠시뒤 <Hero>와 인형이 몸을 맞바꿔 전투를 진행합니다.
+201040,Rakiroon,,,,,,,,,,,
+201041,Slater,Cactus thorns,,30_45_70,180_266_440,0.5_0.85_1.3,,,,,,자신에게 피해를 가한 <Enemy>에게 [<Value00><*><Power>]<Percent> 확률로 |<Value01><*><Power>|의 <AP>를 입히고; <Value02><Second>간 <Stun>시킵니다.
+201042,Drucos,,,,,,,,,,,
+201043,Cawin,Rodeo,,180_250_420,1_1.5_2,2_3_4,0.1,0.5,1.5,,,<Hero>이 뿔로 <Enemy>를 들이받아 [<Value00><*><Power>]의 <AP>를 입히고 <Value01><Second> 동안 <Stun>시키며 <Value02><Block> 뒤로 날려 보냅니다. 그 후 던져진 <Enemy>의 <_MHP>의 |<Value03><*>100|<Percent> 만큼의 <AP>를 주위 <Value05><Block>에 입히고 <Value04><Second>간 <Airborne>웁니다.  
+201044,Skelaron,,,,,,,,,,,
+201045,Balckeria,Infernal pit,,2_2_3,8,0.25,8_15_26,,,,,<Hero>가 지름 <Value00>의 원형 공간을 <Value01><Second> 동안 불태워 지나는 <Enemys>에게 <Value02><Second>당 [<Value03><*><Power>]의 <AP>를 줍니다. 스킬을 시전하는 동안 공격하지 않습니다.
+201046,Cramis,Blade dance,,4.5_6_8,5,0.2,10_16.5_28,50,,,,<Hero>가 다섯개의 머리에서 각각 전방으로 <Value00><Second> 동안 <Value01><Block>길이의 광선을 내뿜어 처음 닿는 <Enemy>에게 <Value02>초당 [<Value03><*><Power>]의 <AP>를 입힙니다. 가운데 머리에서 발사하는 광선은 <Value04><Percent>증가된 피해를 입힙니다.
+201047,Raino,Wild dancer,,1.5,1.8_2.2_3,3,2_2_3,12,25_40_70,,,<Hero>가 칼춤을 추며 주변<Value00><Block>의 적들을 타격해 [<Value01><*><Attack>]의 <AD>를 <Value02>번에 걸쳐 입힙니다. 이후 <Hero>와 주변 <Value03><Block>내의 <Ally><Units>은 <Value04><Second> 동안 |<Value05><*><Power>|의 <Attack>을 얻습니다.
+201048,DragonHunter,Dragon killer,,2.4_3_5,3,,,,,,,<Hero>가 직선으로 다발의 석궁을 한번에 날려 직선 경로상의 <Enemys>에게 [<Value00><*><Attack><+><AP>]의 <True>를 입힙니다. 대상이 <Dragon> 또는 <Dragonoid>인 경우 <Value01>배의 피해를 입힙니다.
+201049,Radius,,,,,,,,,,,
+201050,Senland,Mind controle,,8_13_20,10_7.5_12,,,,,,,<Hero>가 <Enemy> 하나를 [<Value00><*><Power>]<Second> 동안 속박시킵니다. 속박이 유지되는 동안 <Enemy>은 다른 <Enemy>을 공격합니다.
+201051,Kallito,,,,,,,,,,,
+201052,Valrak,,,,,,,,,,,
+201053,Maist,Sea of witch,,84_145_518,1.5,5.5_7_12,,,,,,<Hero>가 파도를 소환해 경로상의 <Enemys>을 덮칩니다. 파도에 휩쓸린 적들은 [<Value00><*><Power>]의 <AP>를 입고; <Value01><Seconds>동안 <Airborne>운뒤; <Value02><Second>동안 <Silent>시킵니다.
+201054,HellGuard,,,,,,,,,,,
+201055,Saint,Blessing,,10_12_15,25_32_200,2_3_10,,,,,,<Hero>가 아군 전체에 에게 축복을 부여해 <Value00><Seconds> 동안 피해량이 [<Value01><*><Power>]<Percent> 만큼 증가하고 받는 피해량은 감소합니다. 축복을 받는 유닛들은 공격시 <_MP>를 <Value02>더 획득합니다.
+201056,Spidergon,,,,,,,,,,,
+201057,Peurika,Abyssal portal,,10_18_80,,,,,,,,경로의 랜덤한 두 <Block>에 각각 포탈을  생성합니다. <PlayerCamp>에 가까운 포탈에 <Enemy>이 처음 당도하면  반대편 포탈로 워프시킵니다. [<Value00><*><Power>]<Second> 동안 지속되며 시전중 <Hero>가 공격하지 않습니다.

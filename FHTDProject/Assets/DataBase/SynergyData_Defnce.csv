@@ -1,0 +1,23 @@
+Synergy,Synergy Name,Count,Value00,Value01,Value02,Value03,Description
+Human,개척자,3_5_7,1_3_5,100,,,매 준비단계에 <Value00>개의 랜덤한 <Tile>에 <_Attack>; <_Power>; <_AtkSpd> 중 하나를 <_Value01><Percent> 강화하는 버프를 생성합니다.
+Beast,약육강식,2_4_6_8,10_16_25_40,3_7_12_20,,,<PSynergy> <Units>이 <Value00>의 <+Attack>을 얻고 다른 <PUnits>은 <Value01>의 <+Attack>을 얻습니다. 
+Dragon,,2_4_6,,,,,
+Dragonoid,,2_3_5,,,,,
+Elemental,,2_4_6,,,,,
+Fairy,,2_4_6,,,,,
+Undead,,3_5_7_9,,,,,
+Plant,광합성,3_5_7_9,,,,,
+Cavalry,,1_2,,,,,
+Guardian,,2_3,,,,,
+Berserker,,1,,,,,
+Magician,대마법사,2_4_6_8,20_40_65_100,,,,<PSynergy> <Units>이 <Value00>의 <+Power>를 얻습니다.
+Flying,,3_5_7,,,,,
+Armoric,,2_4,0.1_0.2,,,,<PUnits>이 <PSynergy> <Unit> <_ADDef> 전체 합산 <Value00><Percent>의 추가피해를 줍니다.
+TwinSwords,,2_4_6,,,,,
+Insect,,3_4_5,,,,,
+Fighter,,2_4_6_8,,,,,
+Natual,,2_4_6,,,,,
+Swordsman,,2_4,,,,,
+BigHorns,,3_5,,,,,
+Ranger,버드헌터,2_4_6,30_55_100,10,,,<PSynergy><Units>이 <Fly><Unit>에게 <Value00><Percent>의 <+Damage>를 가합니다.<E><E>황금 시너지 추가효과 : <PSynergy><Units>의 <Range>가 <_Value01><Percent> 증가합니다.
+Priest,성스러운 힘,1,,,,,

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BalckeriaAnimator
+  m_Controller: {fileID: 9100000, guid: 7e0b1016497f9174ebfabd5334d52adc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8eb7a7205040df546af2e41f1695799d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 563e5404ee1c4424784c8f488a99a624, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 017481a618c75e34d8501b1891f1e464, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e814f1c09548aa84b88939851f7d8fa9, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c554176695d1f04d93e5147a12eb112, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5d3dfa7b3f91e6141b4be2ae09909a98, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d2c4ff4439d46164e88650bf8015edc6, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 087df60bae9167a428b45b1d3a700d6b, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 735ac9920f2b25f498f9f1a07ebb6c81, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 30fb39f28db400f409d6043f54c64207, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5778fe0a026a01048838ae4b93ff3e55, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d01f81383bad099498b1c06d409ed9b6, type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SporinaAnimator
+  m_Controller: {fileID: 9100000, guid: 7e0b1016497f9174ebfabd5334d52adc, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8eb7a7205040df546af2e41f1695799d, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 5d366dbbbb5696144b63f70bfe21e019, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 017481a618c75e34d8501b1891f1e464, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 9767e0734cad14843a3cafb69a60ec16, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 0c554176695d1f04d93e5147a12eb112, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 24b8c10a99774eb438b385a58af1b6bf, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: d2c4ff4439d46164e88650bf8015edc6, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: e259b964d27c8e8409d50b94d91832ce, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 735ac9920f2b25f498f9f1a07ebb6c81, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 649f5498dcb6a774da608438150fcbcb, type: 3}

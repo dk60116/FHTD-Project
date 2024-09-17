@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeroTextureAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b9138d09b3a5e0044b180ee1cc6d6ce8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 21f8e310b2e94714c8b6b39416bfe1c8, type: 3}
+  - {fileID: 21300000, guid: c9cde2406e2379347b2ed277bb7db02b, type: 3}
+  - {fileID: 21300000, guid: d3a85e6001eed9f4091c7d47a0c10dde, type: 3}
+  - {fileID: 21300000, guid: 6131c690c2c62b145ba689e572f345e3, type: 3}
+  - {fileID: 21300000, guid: 429aebd0f9c38a94faa7d06ba3017b73, type: 3}
+  - {fileID: 21300000, guid: 424ced01f353f7040b92739b77acc2a0, type: 3}
+  - {fileID: 21300000, guid: c985acb17e7a1134d8c4b62d02cc9b5d, type: 3}
+  - {fileID: 21300000, guid: 358c91e1a309ee14db74731e19fcf93d, type: 3}
+  - {fileID: 21300000, guid: 6da20c02146913045bc0c448233b09c7, type: 3}
+  - {fileID: 21300000, guid: c38d2d128286bbc43b9ca09bf6de7d31, type: 3}
+  - {fileID: 21300000, guid: 70d5a542e96abd646ae1a740a238955c, type: 3}
+  - {fileID: 21300000, guid: b45644622c1c1fd4b9efae460a28faea, type: 3}
+  - {fileID: 21300000, guid: 5f223a82a8691be4d802337d9c0bfbf7, type: 3}
+  - {fileID: 21300000, guid: 03e4120317e18f349ad487a25f3b7577, type: 3}
+  - {fileID: 21300000, guid: 5a9389637dc1dcc45aaa96c9b70ce9d9, type: 3}
+  - {fileID: 21300000, guid: 2f354373abe68bb4ab468ed7fee7fba2, type: 3}
+  - {fileID: 21300000, guid: 52c5cd0453ac4f344975e898bc241910, type: 3}
+  - {fileID: 21300000, guid: 39b38b14492e64941985c3c64925bbc2, type: 3}
+  - {fileID: 21300000, guid: 67efb4447e8533649b98f7819f316d5c, type: 3}
+  - {fileID: 21300000, guid: 8ebd5254d49f68348b45cb10d43724d1, type: 3}
+  - {fileID: 21300000, guid: 5a79ad54e0cf118409fd041af9db7f81, type: 3}
+  - {fileID: 21300000, guid: 8f331474f676b4945b7ae7d6cb08d6da, type: 3}
+  - {fileID: 21300000, guid: 5fafdf846a711b448a62c773c1d97c87, type: 3}
+  - {fileID: 21300000, guid: 963925e4b4180d14aa932d46c6beb8c0, type: 3}
+  - {fileID: 21300000, guid: 446da5f40da093443b799296f83c54d0, type: 3}
+  - {fileID: 21300000, guid: 14e9c93546cb1d349adf9cce7232f226, type: 3}
+  - {fileID: 21300000, guid: d61ac1951df24a54d82edaee6868e80c, type: 3}
+  - {fileID: 21300000, guid: aec84695344029241a0e313ea1a72861, type: 3}
+  - {fileID: 21300000, guid: 004346263a811cd4cb325db1ec55862e, type: 3}
+  - {fileID: 21300000, guid: 34339e3649955a948969c2ae7bf75c2d, type: 3}
+  - {fileID: 21300000, guid: 257ca766e3fade8499166c6544bc15e2, type: 3}
+  - {fileID: 21300000, guid: 21265976e6599544ea5c44b5f2f2686b, type: 3}
+  - {fileID: 21300000, guid: 65dd7096839b8e04e8cfba29acfa8d66, type: 3}
+  - {fileID: 21300000, guid: 029a3d9650c41e845b096547a9f6ffd1, type: 3}
+  - {fileID: 21300000, guid: efb666a6f18e2674ba3bb6fb1e7cb085, type: 3}
+  - {fileID: 21300000, guid: 5beb8337b68acb8489ac08ec790dce7c, type: 3}
+  - {fileID: 21300000, guid: b741fe47216ad3a4d845aa7b915f4c36, type: 3}
+  - {fileID: 21300000, guid: 578b4e576613eca418719ba7a04ecf3c, type: 3}
+  - {fileID: 21300000, guid: 273895679e3ac2445a6053901fb19c03, type: 3}
+  - {fileID: 21300000, guid: 09c8cd9774a697347b7017161c10559d, type: 3}
+  - {fileID: 21300000, guid: 12c883a7790e3294b877751fd0815414, type: 3}
+  - {fileID: 21300000, guid: bb3c2da719581f146ad53ab63dfe17b1, type: 3}
+  - {fileID: 21300000, guid: 52b71408f1a7c574fbffdb7ceb540886, type: 3}
+  - {fileID: 21300000, guid: f3c8d53884a051f45b2722a19d3888c7, type: 3}
+  - {fileID: 21300000, guid: c1de0a68e54afa14e863580798d481d5, type: 3}
+  - {fileID: 21300000, guid: ab3b9c889b2d87c468321e565a4b0ee8, type: 3}
+  - {fileID: 21300000, guid: a268d03916e3c9644a302c9b405734f6, type: 3}
+  - {fileID: 21300000, guid: 9b4cba791a02bc64b8c04f896a59a94c, type: 3}
+  - {fileID: 21300000, guid: c62ffa89ba5f3704eb454921056d6c0e, type: 3}
+  - {fileID: 21300000, guid: ab3cebd9e9dd9bd4bb93cb24a6be30d4, type: 3}
+  - {fileID: 21300000, guid: e95af2f92fc3bf84ca5aa202be2b1fce, type: 3}
+  - {fileID: 21300000, guid: 894ce32a1475741428c2c31ed0912898, type: 3}
+  - {fileID: 21300000, guid: d6e18a5a5f00eca40a401ce53fb30b97, type: 3}
+  - {fileID: 21300000, guid: a3061a7a3d91db142a1eda51b1d3991f, type: 3}
+  - {fileID: 21300000, guid: c7c7a7aafac191f4a97689f522d5a7b6, type: 3}
+  - {fileID: 21300000, guid: 3e80daeaa6b723d409ffe593d3438bb3, type: 3}
+  - {fileID: 21300000, guid: c700e01bb94f62f4cbe409391a442973, type: 3}
+  - {fileID: 21300000, guid: 71e3d0abe6cb1e943b90bd7c4e8d49ba, type: 3}
+  - {fileID: 21300000, guid: 058c24ab3b9805242a6bd1163f018225, type: 3}
+  - {fileID: 21300000, guid: fce8c7ab2fb8e784db8a07b805c61f46, type: 3}
+  - {fileID: 21300000, guid: cc8646fb3afcb0748942063a229dbfd5, type: 3}
+  - {fileID: 21300000, guid: 76a697fba48fddb418f91a7adde49346, type: 3}
+  - {fileID: 21300000, guid: 056b7c0ccadd4784da13e9dd754d1e06, type: 3}
+  - {fileID: 21300000, guid: e209171cc9159ae4783c062aa6168778, type: 3}
+  - {fileID: 21300000, guid: ecb8e81cf7dce814ab86013de00cfe32, type: 3}
+  - {fileID: 21300000, guid: 8340f34cffd8834418db58282e6a640e, type: 3}
+  - {fileID: 21300000, guid: 4952635c5bbcf69479dfbfa5895b5ba2, type: 3}
+  - {fileID: 21300000, guid: ac16275c4625824438df5cf48651d541, type: 3}
+  - {fileID: 21300000, guid: 4b6a985cbed0ac74ca5d9adfa6030928, type: 3}
+  - {fileID: 21300000, guid: 65dd108c72aff9d47884efe420524878, type: 3}
+  - {fileID: 21300000, guid: d293e1ccd488c0742b8da5f7b4d8e84b, type: 3}
+  - {fileID: 21300000, guid: c02b620db73eaf8418d1b41f9e4638ed, type: 3}
+  - {fileID: 21300000, guid: 4b96b73d374ff7642952fc3479efe56e, type: 3}
+  - {fileID: 21300000, guid: 1964583d20cd49445b3a8f5738f22635, type: 3}
+  - {fileID: 21300000, guid: aacba28d87af9be4ebd34c2692787e54, type: 3}
+  - {fileID: 21300000, guid: 538ebb1e312de6042a577a801c4c2f63, type: 3}
+  - {fileID: 21300000, guid: 4a2fd72e82f7d4f4ebf1c07b5672f623, type: 3}
+  - {fileID: 21300000, guid: b6ba6e4ea522f194d903dbe8e15687f0, type: 3}
+  - {fileID: 21300000, guid: 1548026ef9707b5419e9f963e4ff94e2, type: 3}
+  - {fileID: 21300000, guid: a469bade97495864d9a4397afd55bd40, type: 3}
+  - {fileID: 21300000, guid: e2eae43f08c60e94992a274aa0c65eb6, type: 3}
+  - {fileID: 21300000, guid: 8091db4fe90b9124dab3ca200d6b0d10, type: 3}
+  - {fileID: 21300000, guid: d7fadbbf639a54442b721c9b0be80860, type: 3}
+  - {fileID: 21300000, guid: 280275cf8beddac4489e243dd08495f2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Predictor
+  - Latina
+  - Moya
+  - assassin_face_01
+  - Basilisk
+  - assassin_body_02
+  - Gong
+  - Destroyer
+  - Archer_head_04
+  - Balckeria
+  - Cramis
+  - Wizard_body_01
+  - Wizard_face
+  - Archer_body_01
+  - magemon
+  - syaonil
+  - Montechruz
+  - slater
+  - knight_body_04
+  - Belber
+  - Radius
+  - knight_face_01
+  - Dragoon
+  - okin
+  - HellGuard_wing
+  - Pandasia
+  - Archer_weapon_01
+  - Wizard_head_04
+  - drucos
+  - assassin_weapon_01
+  - skelaron
+  - bellial
+  - Predictor_wp
+  - soskereu
+  - scollwarrior
+  - mocomoco
+  - Baykey
+  - cawin
+  - wacool
+  - Rakiroon
+  - keurot
+  - Wizard_weapon_02
+  - knight_weapon_01
+  - knight_head_01
+  - icefairy
+  - Sporina
+  - knight_weapon_02
+  - knight_face_02'
+  - Wizard_head_01
+  - Wizard_face1
+  - Peurika
+  - valrak
+  - Singklee
+  - Archer_face_02
+  - Tetitone
+  - Archer_body_04
+  - knight_body_01
+  - Dinko
+  - PreeKa
+  - godongi
+  - HellGuard
+  - Guroguro
+  - Spidergon
+  - knight_head_04
+  - Kallito
+  - assassin_head_02
+  - Karre
+  - Cablo
+  - Baykey_wp
+  - syaonil_wp
+  - Maist
+  - Archer_head_01
+  - Spidergon_body
+  - Archer_weapon_02
+  - Wizard_weapon_01
+  - Cabino
+  - Archer_face_01
+  - raino
+  - Senland
+  - Azzang
+  - fingerElfe
+  - peullamon
+  - Wizard_body_04
+  - hogs
+  m_RenderDataMap: {}
+  m_Tag: HeroTextureAtlas
+  m_IsVariant: 0
